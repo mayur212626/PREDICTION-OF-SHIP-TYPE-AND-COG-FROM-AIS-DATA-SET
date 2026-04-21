@@ -6,3 +6,4 @@
 ## One hot encoding
 ## SMOTE balancing
 ## Random Forest feature importance
+## VIF analysis
