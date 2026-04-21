@@ -10,3 +10,4 @@
 ## PCA
 ## SVD
 ## Covariance and correlation
+## Phase 2: Regression
