@@ -20,3 +20,4 @@
 ## Stacking classifier
 ## Decision Tree
 ## Phase 4: Clustering
+## Apriori
