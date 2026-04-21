@@ -8,3 +8,4 @@
 ## Random Forest feature importance
 ## VIF analysis
 ## PCA
+## SVD
