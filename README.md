@@ -13,3 +13,4 @@
 ## Phase 2: Regression
 ## Stepwise backward regression
 ## Phase 3: Classification
+## SVM
