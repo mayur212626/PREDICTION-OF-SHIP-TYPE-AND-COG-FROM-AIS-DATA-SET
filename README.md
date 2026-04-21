@@ -4,3 +4,4 @@
 ## Outlier analysis
 ## Standardization
 ## One hot encoding
+## SMOTE balancing
