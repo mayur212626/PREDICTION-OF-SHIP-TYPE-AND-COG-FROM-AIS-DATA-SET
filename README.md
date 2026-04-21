@@ -16,3 +16,4 @@
 ## SVM
 ## MLP
 ## Logistic Regression
+## Random Forest classifier
