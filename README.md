@@ -3,3 +3,4 @@
 ## Aggregation
 ## Outlier analysis
 ## Standardization
+## One hot encoding
