@@ -18,3 +18,4 @@
 ## Logistic Regression
 ## Random Forest classifier
 ## Stacking classifier
+## Decision Tree
