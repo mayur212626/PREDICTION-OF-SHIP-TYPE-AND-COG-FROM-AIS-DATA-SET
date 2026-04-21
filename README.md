@@ -2,3 +2,4 @@
 ## Duplicate removal
 ## Aggregation
 ## Outlier analysis
+## Standardization
