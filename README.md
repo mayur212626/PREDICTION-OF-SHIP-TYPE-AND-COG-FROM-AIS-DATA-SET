@@ -9,3 +9,4 @@
 ## VIF analysis
 ## PCA
 ## SVD
+## Covariance and correlation
