@@ -17,3 +17,4 @@
 ## MLP
 ## Logistic Regression
 ## Random Forest classifier
+## Stacking classifier
