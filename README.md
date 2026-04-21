@@ -15,3 +15,4 @@
 ## Phase 3: Classification
 ## SVM
 ## MLP
+## Logistic Regression
