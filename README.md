@@ -7,3 +7,4 @@
 ## SMOTE balancing
 ## Random Forest feature importance
 ## VIF analysis
+## PCA
