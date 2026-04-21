@@ -11,3 +11,4 @@
 ## SVD
 ## Covariance and correlation
 ## Phase 2: Regression
+## Stepwise backward regression
